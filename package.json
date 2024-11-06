@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-proxy",
+  "version": "1.0.0",
+  "description": "Study project",
+  "main": "index.js",
+  "author": "Denis Fyodorov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
